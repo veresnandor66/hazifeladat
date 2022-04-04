@@ -1,0 +1,17 @@
+ul{
+    width: 50%;
+    height: 2cm;
+    padding: 1cm 0 0 0;
+    border: 20px dotted green;
+    text-align: center;
+}
+li{
+    display: inline-block;
+    margin: auto;
+    padding: 3mm;
+    list-style: none;
+    height: 1cm;
+    background-color: lightseagreen;
+    text-align: center;
+    
+}
